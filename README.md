@@ -85,6 +85,16 @@ The robot provides a basic platform for experimenting with:
 - Navigation
 - Autonomous driving
 
+## Screenshots
+
+### Gazebo Simulation
+
+![Gazebo Simulation](screenshots/gazebo.png)
+
+### RViz Visualization
+
+![RViz Visualization](screenshots/rviz.png)
+
 ## Future Work
 Possible future extensions include:
 
